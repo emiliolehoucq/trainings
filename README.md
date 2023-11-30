@@ -1,1 +1,1 @@
-Repo for trainings I teach.
+Repo for some of the trainings I teach at [Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/).
